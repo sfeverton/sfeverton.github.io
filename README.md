@@ -1,2 +1,3 @@
 # sfeverton.github.io
-Using R for Network Analysis
+Learning Social Network Analysis: From Theory to R
+
